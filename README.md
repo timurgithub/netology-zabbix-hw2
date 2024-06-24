@@ -11,7 +11,7 @@
 4. Создайте Item который будет собирать информацию об загрузке RAM в процентах
 
 #### Ответ
-![Задание-1] (https://github.com/timurgithub/netology-zabbix-hw2/blob/main/img/Задание 1.png)`
+![Задание-1] (https://github.com/timurgithub/netology-zabbix-hw2/blob/main/img/Exercise-1.png)`
 
 ### Задание 2
 Добавьте в Zabbix два хоста и задайте им имена <фамилия и инициалы-1> и <фамилия и инициалы-2>. Например: ivanovii-1 и ivanovii-2.
@@ -43,8 +43,8 @@
 
  ---
 #### Ответ
-1. ![Задание-2] (https://github.com/timurgithub/netology-zabbix-hw2/blob/main/img/Задание 2.png)
-2. ![Задание-3] (https://github.com/timurgithub/netology-zabbix-hw2/blob/main/img/Задание 3.png)
+1. ![Задание-2] (https://github.com/timurgithub/netology-zabbix-hw2/blob/main/img/Exercise-2.png)
+2. ![Задание-3] (https://github.com/timurgithub/netology-zabbix-hw2/blob/main/img/Exercise-3.png)
 
 ### Задание 4
 Создайте свой кастомный дашборд.
@@ -59,4 +59,4 @@
 
  ---
 #### Ответ
-`![Задание 1] (https://github.com/timurgithub/netology-zabbix-hw2/blob/main/img/Задание 1.png)`
+![Задание-4] (https://github.com/timurgithub/netology-zabbix-hw2/blob/main/img/Exercise-4.png)
